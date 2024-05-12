@@ -48,6 +48,7 @@ Database:
         };
 
 #DNS 
+
 1.Purchase a Domain Name: If you haven't already, purchase a domain name from a domain registrar like GoDaddy, Namecheap, or AWS Route 53.
 
 2.Access DNS Management: Log in to your domain registrar's website and access the DNS management section for the domain you've purchased.
